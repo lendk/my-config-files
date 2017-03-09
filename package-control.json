@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"Comment-Snippets",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Enki Theme",
+		"FileDiffs",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JavaScript Completions",
+		"JavaScript Patterns",
+		"jQuery",
+		"Laravel Blade Highlighter",
+		"MarkdownEditing",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"TodoReview",
+		"Trimmer",
+		"Vue Syntax Highlight",
+		"WordPress"
+	]
+}
